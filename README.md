@@ -1,5 +1,6 @@
 # spider Logistics information
 The purpose of this project just for data analysis for research.
+The target is https://56.1688.com/order/price/estimate_price.htm
 
 ### part 1
 
